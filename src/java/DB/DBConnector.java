@@ -26,7 +26,7 @@ public class DBConnector {
     public String database = "fmm_db";
 
     // Host
-    public String hostname = "node27220-farmersmm.es-1.axarnet.cloud";
+    public String hostname = "node27226-farmersmmarket.es-1.axarnet.cloud";
 
     // Puerto
     public String port = "3306";
@@ -38,7 +38,7 @@ public class DBConnector {
     public String username = "root";
 
     // Clave de usuario
-    public String password = "XGQnbp62171";
+    public String password = "MCAyxb59661";
 
     public DBConnector() throws SQLException {
         try {
